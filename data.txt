@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A5489205225%2C%22first_name%22%3A%22YAHIKO%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22ScoopyPINK%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-9017404363867203639&chat_type=channel&start_param=376905749&auth_date=1722745775&hash=96e7a1fe4fa67c8fd964ffe02719d323363140bef20c15c58bf5921515675c69
